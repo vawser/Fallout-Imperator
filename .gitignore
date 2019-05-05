@@ -1,9 +1,6 @@
 
 # Development/maps/
-# Development/flatmap.psd
-# Development/master.psd
-# Development/master_old.psd
 map_data/provinces.bmp
 gfx/map/textures/colormap.dds
 gfx/map/textures/flatmap.dds
-# Development/flatmap.psd
+
